@@ -1,0 +1,37 @@
+{
+    "appName": {
+        "message": "magnet Link to NAS",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "A chrome extension helps you fast add magnet link to Synology DSM download manager or Transmission.",
+        "description":"The description of the application, displayed in the web store."
+    },
+    "contextMenusLabel": {
+        "message": "Send magnet link to NAS"
+    },
+    "prefTitle": {
+        "message": "Preference"
+    },
+    "prefType": {
+        "message": "Host Type"
+    },
+    "prefFetchToken": {
+        "message" : "Fetch"
+    },
+    "prefTokenNote": {
+        "message" : "Every time you log in DSM/Transmission, you need to fetch new token"
+    },
+    "prefSave": {
+        "message": "Save"
+    },
+    "prefSaveComplete" : {
+        "message": "Save Complete!"
+    },
+    "prefNeedLoginSynology" : {
+        "message": "Please login DSM first!"
+    },
+    "magnetAddSuccess": {
+        "message": "Added Successfully"
+    }
+}

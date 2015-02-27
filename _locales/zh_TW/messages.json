@@ -1,0 +1,37 @@
+{
+    "appName": {
+        "message": "magnet 連結傳送器",
+        "description": "The title of the application, displayed in the web store."
+    },
+    "appDesc": {
+        "message": "協助您快速將 magnet 連結丟到 Synology DSM 或 Transmission 下載。",
+        "description":"The description of the application, displayed in the web store."
+    },
+    "contextMenusLabel": {
+        "message": "傳送 magnet 連結至 NAS"
+    },
+    "prefTitle": {
+        "message": "偏好設定"
+    },
+    "prefType": {
+        "message" : "機器類別"
+    },
+    "prefFetchToken": {
+        "message" : "取得"
+    },
+    "prefTokenNote": {
+        "message" : "每次您重新登入 DSM/Transmission 時就需要重新取得 TOKEN"
+    },
+    "prefSave": {
+        "message" : "儲存"
+    },
+    "prefSaveComplete" : {
+        "message": "儲存成功！"
+    },
+    "prefNeedLoginSynology" : {
+        "message": "請先登入 DSM！"
+    },
+    "magnetAddSuccess": {
+        "message": "新增成功！"
+    }
+}
